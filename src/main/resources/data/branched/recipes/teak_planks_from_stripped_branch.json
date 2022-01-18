@@ -1,0 +1,13 @@
+{
+  "type": "crafting_shapeless",
+  "group": "planks",
+  "ingredients": [
+    {
+      "item": "branched:stripped_teak_branch"
+    }
+  ],
+  "result": {
+    "item": "branched:teak_planks",
+    "count": 1
+  }
+}

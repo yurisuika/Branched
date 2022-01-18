@@ -1,0 +1,9 @@
+{
+	"parent": "branched:block/template_twig_south_west_up_down",
+	"textures": {
+		"end": "branched:block/walnut_twig_end",
+		"particle": "branched:block/walnut_trunk",
+		"sideLDU": "branched:block/walnut_twig_left_down_up",
+		"sideLRD": "branched:block/walnut_twig_left_right_down"
+	}
+}

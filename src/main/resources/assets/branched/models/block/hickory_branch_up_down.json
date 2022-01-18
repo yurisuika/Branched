@@ -1,0 +1,8 @@
+{
+	"parent": "branched:block/template_branch_up_down",
+	"textures": {
+		"end": "branched:block/hickory_branch_end",
+		"particle": "branched:block/hickory_trunk",
+		"side": "branched:block/hickory_branch"
+	}
+}

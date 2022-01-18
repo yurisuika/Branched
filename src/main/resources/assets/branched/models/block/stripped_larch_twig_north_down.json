@@ -1,0 +1,10 @@
+{
+	"parent": "branched:block/template_twig_north_down",
+	"textures": {
+		"end": "branched:block/stripped_larch_twig_end",
+		"particle": "branched:block/stripped_larch_trunk",
+		"side": "branched:block/stripped_larch_twig",
+		"sideLU": "branched:block/stripped_larch_twig_left_up",
+		"sideRD": "branched:block/stripped_larch_twig_right_down"
+	}
+}

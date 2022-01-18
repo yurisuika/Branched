@@ -1,0 +1,13 @@
+{
+  "type": "crafting_shapeless",
+  "group": "planks",
+  "ingredients": [
+    {
+      "item": "branched:citrus_trunk"
+    }
+  ],
+  "result": {
+    "item": "branched:citrus_planks",
+    "count": 4
+  }
+}

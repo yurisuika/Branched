@@ -1,0 +1,7 @@
+{
+  "replace": false,
+  "values": [
+    "branched:apple_trunk",
+    "branched:stripped_apple_trunk"
+  ]
+}

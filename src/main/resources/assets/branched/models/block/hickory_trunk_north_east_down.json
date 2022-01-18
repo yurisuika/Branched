@@ -1,0 +1,10 @@
+{
+	"parent": "branched:block/template_trunk_north_east_down",
+	"textures": {
+		"end": "branched:block/hickory_trunk_end",
+		"particle": "branched:block/hickory_trunk",
+		"sideRD": "branched:block/hickory_trunk_right_down",
+		"sideLU": "branched:block/hickory_trunk_left_up",
+		"sideRU": "branched:block/hickory_trunk_right_up"
+	}
+}

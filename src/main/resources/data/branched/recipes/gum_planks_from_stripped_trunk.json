@@ -1,0 +1,13 @@
+{
+  "type": "crafting_shapeless",
+  "group": "planks",
+  "ingredients": [
+    {
+      "item": "branched:stripped_gum_trunk"
+    }
+  ],
+  "result": {
+    "item": "branched:gum_planks",
+    "count": 4
+  }
+}

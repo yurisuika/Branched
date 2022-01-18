@@ -1,0 +1,9 @@
+{
+	"parent": "branched:block/template_trunk_west_down",
+	"textures": {
+		"end": "branched:block/mesquite_trunk_end",
+		"particle": "branched:block/mesquite_trunk",
+		"side": "branched:block/mesquite_trunk",
+		"sideLD": "branched:block/mesquite_trunk_left_down"
+	}
+}

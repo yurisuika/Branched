@@ -1,0 +1,7 @@
+{
+	"parent": "branched:block/template_twig_inventory",
+	"textures": {
+		"end": "branched:block/stripped_ash_twig_end",
+		"side": "branched:block/stripped_ash_twig"
+	}
+}

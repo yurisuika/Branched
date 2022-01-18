@@ -1,0 +1,7 @@
+{
+	"parent": "branched:block/template_branch_inventory",
+	"textures": {
+		"end": "branched:block/larch_branch_end",
+		"side": "branched:block/larch_branch"
+	}
+}

@@ -1,0 +1,13 @@
+{
+  "type": "crafting_shapeless",
+  "group": "planks",
+  "ingredients": [
+    {
+      "item": "branched:stripped_hazel_trunk"
+    }
+  ],
+  "result": {
+    "item": "branched:hazel_planks",
+    "count": 4
+  }
+}

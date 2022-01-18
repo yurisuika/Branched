@@ -1,0 +1,9 @@
+{
+	"parent": "branched:block/template_trunk_closed_up",
+	"textures": {
+		"end": "branched:block/cypress_trunk_end",
+		"particle": "branched:block/cypress_trunk",
+		"side": "branched:block/cypress_trunk",
+		"wood": "branched:block/cypress_trunk_left_right_down_up"
+	}
+}

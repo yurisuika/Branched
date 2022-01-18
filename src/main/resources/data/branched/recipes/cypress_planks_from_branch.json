@@ -1,0 +1,13 @@
+{
+  "type": "crafting_shapeless",
+  "group": "planks",
+  "ingredients": [
+    {
+      "item": "branched:cypress_branch"
+    }
+  ],
+  "result": {
+    "item": "branched:cypress_planks",
+    "count": 1
+  }
+}

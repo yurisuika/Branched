@@ -1,0 +1,10 @@
+{
+	"parent": "branched:block/template_trunk_south_east",
+	"textures": {
+		"end": "branched:block/mahogany_trunk_end",
+		"particle": "branched:block/mahogany_trunk",
+		"side": "branched:block/mahogany_trunk",
+		"sideLU": "branched:block/mahogany_trunk_left_up",
+		"sideRD": "branched:block/mahogany_trunk_right_down"
+	}
+}

@@ -1,0 +1,13 @@
+{
+  "type": "crafting_shapeless",
+  "group": "planks",
+  "ingredients": [
+    {
+      "item": "branched:stripped_jungle_branch"
+    }
+  ],
+  "result": {
+    "item": "minecraft:jungle_planks",
+    "count": 1
+  }
+}

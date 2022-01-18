@@ -1,0 +1,10 @@
+{
+	"parent": "branched:block/template_trunk_south_east",
+	"textures": {
+		"end": "branched:block/jungle_trunk_end",
+		"particle": "branched:block/jungle_trunk",
+		"side": "branched:block/jungle_trunk",
+		"sideLU": "branched:block/jungle_trunk_left_up",
+		"sideRD": "branched:block/jungle_trunk_right_down"
+	}
+}

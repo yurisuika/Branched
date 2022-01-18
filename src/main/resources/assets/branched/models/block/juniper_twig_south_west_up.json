@@ -1,0 +1,10 @@
+{
+	"parent": "branched:block/template_twig_south_west_up",
+	"textures": {
+		"end": "branched:block/juniper_twig_end",
+		"particle": "branched:block/juniper_trunk",
+		"sideLD": "branched:block/juniper_twig_left_down",
+		"sideLU": "branched:block/juniper_twig_left_up",
+		"sideRD": "branched:block/juniper_twig_right_down"
+	}
+}

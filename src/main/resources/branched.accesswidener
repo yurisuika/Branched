@@ -1,0 +1,5 @@
+accessWidener v1 named
+
+accessible    method    net/minecraft/world/gen/stateprovider/SimpleBlockStateProvider    <init>    (Lnet/minecraft/block/BlockState;)V
+extendable    method    net/minecraft/block/AbstractBlock    getLootTableId    ()Lnet/minecraft/util/Identifier;
+accessible    method    net/minecraft/item/Items    register    (Lnet/minecraft/block/Block;Lnet/minecraft/item/ItemGroup;)Lnet/minecraft/item/Item;

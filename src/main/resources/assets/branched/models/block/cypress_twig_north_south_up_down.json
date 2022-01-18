@@ -1,0 +1,8 @@
+{
+	"parent": "branched:block/template_twig_north_south_up_down",
+	"textures": {
+		"end": "branched:block/cypress_twig_end",
+		"particle": "branched:block/cypress_trunk",
+		"sideLRDU": "branched:block/cypress_twig_left_right_down_up"
+	}
+}

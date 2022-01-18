@@ -1,0 +1,10 @@
+{
+	"parent": "branched:block/template_branch_east_up_down",
+	"textures": {
+		"end": "branched:block/cypress_branch_end",
+		"particle": "branched:block/cypress_trunk",
+		"side": "branched:block/cypress_branch",
+		"sideLRU": "branched:block/cypress_branch_left_right_up",
+		"sideRDU": "branched:block/cypress_branch_right_down_up"
+	}
+}

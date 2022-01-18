@@ -1,0 +1,10 @@
+{
+	"parent": "branched:block/template_twig_north_west_down",
+	"textures": {
+		"end": "branched:block/aspen_twig_end",
+		"particle": "branched:block/aspen_trunk",
+		"sideRD": "branched:block/aspen_twig_right_down",
+		"sideLD": "branched:block/aspen_twig_left_down",
+		"sideLU": "branched:block/aspen_twig_left_up"
+	}
+}

@@ -1,0 +1,9 @@
+{
+	"parent": "branched:block/template_twig_north_east_west_up",
+	"textures": {
+		"end": "branched:block/jungle_twig_end",
+		"particle": "branched:block/jungle_trunk",
+		"sideLRU": "branched:block/jungle_twig_left_right_up",
+		"sideRDU": "branched:block/jungle_twig_right_down_up"
+	}
+}

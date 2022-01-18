@@ -1,0 +1,8 @@
+{
+	"parent": "branched:block/template_twig_down",
+	"textures": {
+		"end": "branched:block/stripped_hemlock_twig_end",
+		"particle": "branched:block/stripped_hemlock_trunk",
+		"side": "branched:block/stripped_hemlock_twig"
+	}
+}

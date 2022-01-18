@@ -1,0 +1,152 @@
+{
+  "replace": false,
+  "values": [
+    "#branched:oak_trunks",
+    "#branched:oak_branches",
+    "#branched:oak_twigs",
+
+    "#branched:spruce_trunks",
+    "#branched:spruce_branches",
+    "#branched:spruce_twigs",
+
+    "#branched:birch_trunks",
+    "#branched:birch_branches",
+    "#branched:birch_twigs",
+
+    "#branched:jungle_trunks",
+    "#branched:jungle_branches",
+    "#branched:jungle_twigs",
+
+    "#branched:acacia_trunks",
+    "#branched:acacia_branches",
+    "#branched:acacia_twigs",
+
+    "#branched:dark_oak_trunks",
+    "#branched:dark_oak_branches",
+    "#branched:dark_oak_twigs",
+
+    "#branched:alder_trunks",
+    "#branched:alder_branches",
+    "#branched:alder_twigs",
+
+    "#branched:apple_trunks",
+    "#branched:apple_branches",
+    "#branched:apple_twigs",
+
+    "#branched:ash_trunks",
+    "#branched:ash_branches",
+    "#branched:ash_twigs",
+
+    "#branched:aspen_trunks",
+    "#branched:aspen_branches",
+    "#branched:aspen_twigs",
+
+    "#branched:cedar_trunks",
+    "#branched:cedar_branches",
+    "#branched:cedar_twigs",
+
+    "#branched:cherry_trunks",
+    "#branched:cherry_branches",
+    "#branched:cherry_twigs",
+
+    "#branched:chestnut_trunks",
+    "#branched:chestnut_branches",
+    "#branched:chestnut_twigs",
+
+    "#branched:citrus_trunks",
+    "#branched:citrus_branches",
+    "#branched:citrus_twigs",
+
+    "#branched:cottonwood_trunks",
+    "#branched:cottonwood_branches",
+    "#branched:cottonwood_twigs",
+
+    "#branched:cypress_trunks",
+    "#branched:cypress_branches",
+    "#branched:cypress_twigs",
+
+    "#branched:ebony_trunks",
+    "#branched:ebony_branches",
+    "#branched:ebony_twigs",
+
+    "#branched:fir_trunks",
+    "#branched:fir_branches",
+    "#branched:fir_twigs",
+
+    "#branched:gum_trunks",
+    "#branched:gum_branches",
+    "#branched:gum_twigs",
+
+    "#branched:hawthorn_trunks",
+    "#branched:hawthorn_branches",
+    "#branched:hawthorn_twigs",
+
+    "#branched:hazel_trunks",
+    "#branched:hazel_branches",
+    "#branched:hazel_twigs",
+
+    "#branched:hemlock_trunks",
+    "#branched:hemlock_branches",
+    "#branched:hemlock_twigs",
+
+    "#branched:hickory_trunks",
+    "#branched:hickory_branches",
+    "#branched:hickory_twigs",
+
+    "#branched:juniper_trunks",
+    "#branched:juniper_branches",
+    "#branched:juniper_twigs",
+
+    "#branched:larch_trunks",
+    "#branched:larch_branches",
+    "#branched:larch_twigs",
+
+    "#branched:mahogany_trunks",
+    "#branched:mahogany_branches",
+    "#branched:mahogany_twigs",
+
+    "#branched:maple_trunks",
+    "#branched:maple_branches",
+    "#branched:maple_twigs",
+
+    "#branched:mesquite_trunks",
+    "#branched:mesquite_branches",
+    "#branched:mesquite_twigs",
+
+    "#branched:peach_trunks",
+    "#branched:peach_branches",
+    "#branched:peach_twigs",
+
+    "#branched:pear_trunks",
+    "#branched:pear_branches",
+    "#branched:pear_twigs",
+
+    "#branched:pine_trunks",
+    "#branched:pine_branches",
+    "#branched:pine_twigs",
+
+    "#branched:redwood_trunks",
+    "#branched:redwood_branches",
+    "#branched:redwood_twigs",
+
+    "#branched:rosewood_trunks",
+    "#branched:rosewood_branches",
+    "#branched:rosewood_twigs",
+
+    "#branched:teak_trunks",
+    "#branched:teak_branches",
+    "#branched:teak_twigs",
+
+    "#branched:walnut_trunks",
+    "#branched:walnut_branches",
+    "#branched:walnut_twigs",
+
+    "#branched:willow_trunks",
+    "#branched:willow_branches",
+    "#branched:willow_twigs",
+
+    "#branched:willow_trunks",
+    "#branched:willow_branches",
+    "#branched:willow_twigs"
+  ]
+}

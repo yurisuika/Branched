@@ -1,0 +1,7 @@
+{
+  "replace": false,
+  "values": [
+    "branched:hemlock_trunk",
+    "branched:stripped_hemlock_trunk"
+  ]
+}

@@ -1,0 +1,9 @@
+{
+	"parent": "branched:block/template_twig_north_west_up_down",
+	"textures": {
+		"end": "branched:block/stripped_apple_twig_end",
+		"particle": "branched:block/stripped_apple_trunk",
+		"sideLDU": "branched:block/stripped_apple_twig_left_down_up",
+		"sideRDU": "branched:block/stripped_apple_twig_right_down_up"
+	}
+}

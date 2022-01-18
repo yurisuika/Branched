@@ -1,0 +1,13 @@
+{
+  "type": "crafting_shapeless",
+  "group": "planks",
+  "ingredients": [
+    {
+      "item": "branched:stripped_walnut_branch"
+    }
+  ],
+  "result": {
+    "item": "branched:walnut_planks",
+    "count": 1
+  }
+}

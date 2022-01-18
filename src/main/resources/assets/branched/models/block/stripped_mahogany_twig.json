@@ -1,0 +1,7 @@
+{
+	"parent": "branched:block/template_twig",
+	"textures": {
+		"particle": "branched:block/stripped_mahogany_trunk",
+		"wood": "branched:block/stripped_mahogany_twig_left_right_down_up"
+	}
+}

@@ -1,0 +1,9 @@
+{
+	"parent": "branched:block/template_branch_south_west",
+	"textures": {
+		"end": "branched:block/hemlock_branch_end",
+		"particle": "branched:block/hemlock_trunk",
+		"side": "branched:block/hemlock_branch",
+		"sideLD": "branched:block/hemlock_branch_left_down"
+	}
+}

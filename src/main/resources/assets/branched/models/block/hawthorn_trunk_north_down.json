@@ -1,0 +1,10 @@
+{
+	"parent": "branched:block/template_trunk_north_down",
+	"textures": {
+		"end": "branched:block/hawthorn_trunk_end",
+		"particle": "branched:block/hawthorn_trunk",
+		"side": "branched:block/hawthorn_trunk",
+		"sideLU": "branched:block/hawthorn_trunk_left_up",
+		"sideRD": "branched:block/hawthorn_trunk_right_down"
+	}
+}

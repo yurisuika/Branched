@@ -1,0 +1,8 @@
+{
+	"parent": "branched:block/template_branch_outer_north",
+	"textures": {
+		"end": "branched:block/gum_branch_end",
+		"particle": "branched:block/gum_trunk",
+		"side": "branched:block/gum_branch"
+	}
+}

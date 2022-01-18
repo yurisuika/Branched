@@ -1,0 +1,13 @@
+{
+  "type": "crafting_shapeless",
+  "group": "planks",
+  "ingredients": [
+    {
+      "item": "branched:stripped_cherry_branch"
+    }
+  ],
+  "result": {
+    "item": "branched:cherry_planks",
+    "count": 1
+  }
+}

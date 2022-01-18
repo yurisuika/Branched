@@ -1,0 +1,10 @@
+{
+	"parent": "branched:block/template_twig_south_up",
+	"textures": {
+		"end": "branched:block/redwood_twig_end",
+		"particle": "branched:block/redwood_trunk",
+		"side": "branched:block/redwood_twig",
+		"sideLU": "branched:block/redwood_twig_left_up",
+		"sideRD": "branched:block/redwood_twig_right_down"
+	}
+}

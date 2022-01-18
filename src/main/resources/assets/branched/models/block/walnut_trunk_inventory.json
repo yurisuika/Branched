@@ -1,0 +1,7 @@
+{
+	"parent": "branched:block/template_trunk_inventory",
+	"textures": {
+		"end": "branched:block/walnut_trunk_end",
+		"side": "branched:block/walnut_trunk"
+	}
+}

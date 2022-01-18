@@ -1,0 +1,7 @@
+{
+	"parent": "branched:block/template_twig",
+	"textures": {
+		"particle": "branched:block/ash_trunk",
+		"wood": "branched:block/ash_twig_left_right_down_up"
+	}
+}

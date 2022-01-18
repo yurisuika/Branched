@@ -1,0 +1,7 @@
+{
+  "replace": false,
+  "values": [
+    "branched:juniper_twig",
+    "branched:stripped_juniper_twig"
+  ]
+}

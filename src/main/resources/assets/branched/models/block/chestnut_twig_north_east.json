@@ -1,0 +1,9 @@
+{
+	"parent": "branched:block/template_twig_north_east",
+	"textures": {
+		"end": "branched:block/chestnut_twig_end",
+		"particle": "branched:block/chestnut_trunk",
+		"side": "branched:block/chestnut_twig",
+		"sideRU": "branched:block/chestnut_twig_right_up"
+	}
+}

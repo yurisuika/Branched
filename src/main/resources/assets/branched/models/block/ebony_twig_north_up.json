@@ -1,0 +1,9 @@
+{
+	"parent": "branched:block/template_twig_north_up",
+	"textures": {
+		"end": "branched:block/ebony_twig_end",
+		"particle": "branched:block/ebony_trunk",
+		"side": "branched:block/ebony_twig",
+		"sideRU": "branched:block/ebony_twig_right_up"
+	}
+}

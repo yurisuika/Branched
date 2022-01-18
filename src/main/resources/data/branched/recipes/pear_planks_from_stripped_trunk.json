@@ -1,0 +1,13 @@
+{
+  "type": "crafting_shapeless",
+  "group": "planks",
+  "ingredients": [
+    {
+      "item": "branched:stripped_pear_trunk"
+    }
+  ],
+  "result": {
+    "item": "branched:pear_planks",
+    "count": 4
+  }
+}

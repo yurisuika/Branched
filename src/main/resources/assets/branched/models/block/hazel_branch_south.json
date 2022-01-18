@@ -1,0 +1,8 @@
+{
+	"parent": "branched:block/template_branch_south",
+	"textures": {
+		"end": "branched:block/hazel_branch_end",
+		"particle": "branched:block/hazel_trunk",
+		"side": "branched:block/hazel_branch"
+	}
+}

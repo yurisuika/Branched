@@ -1,0 +1,7 @@
+{
+  "replace": false,
+  "values": [
+    "branched:hickory_trunk",
+    "branched:stripped_hickory_trunk"
+  ]
+}

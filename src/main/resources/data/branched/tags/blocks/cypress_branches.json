@@ -1,0 +1,7 @@
+{
+  "replace": false,
+  "values": [
+    "branched:cypress_branch",
+    "branched:stripped_cypress_branch"
+  ]
+}

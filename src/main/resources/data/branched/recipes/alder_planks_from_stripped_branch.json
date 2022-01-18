@@ -1,0 +1,13 @@
+{
+  "type": "crafting_shapeless",
+  "group": "planks",
+  "ingredients": [
+    {
+      "item": "branched:stripped_alder_branch"
+    }
+  ],
+  "result": {
+    "item": "branched:alder_planks",
+    "count": 1
+  }
+}

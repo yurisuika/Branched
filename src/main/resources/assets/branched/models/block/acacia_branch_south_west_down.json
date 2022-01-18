@@ -1,0 +1,8 @@
+{
+	"parent": "branched:block/template_branch_south_west_down",
+	"textures": {
+		"end": "branched:block/acacia_branch_end",
+		"particle": "branched:block/acacia_trunk",
+		"sideLD": "branched:block/acacia_branch_left_down"
+	}
+}

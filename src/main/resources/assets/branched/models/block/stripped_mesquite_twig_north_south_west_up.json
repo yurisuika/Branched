@@ -1,0 +1,9 @@
+{
+	"parent": "branched:block/template_twig_north_south_west_up",
+	"textures": {
+		"end": "branched:block/stripped_mesquite_twig_end",
+		"particle": "branched:block/stripped_mesquite_trunk",
+		"sideLRD": "branched:block/stripped_mesquite_twig_left_right_down",
+		"sideLRU": "branched:block/stripped_mesquite_twig_left_right_up"
+	}
+}

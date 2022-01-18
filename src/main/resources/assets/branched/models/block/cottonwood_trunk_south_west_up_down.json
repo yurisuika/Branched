@@ -1,0 +1,9 @@
+{
+	"parent": "branched:block/template_trunk_south_west_up_down",
+	"textures": {
+		"end": "branched:block/cottonwood_trunk_end",
+		"particle": "branched:block/cottonwood_trunk",
+		"sideLDU": "branched:block/cottonwood_trunk_left_down_up",
+		"sideLRD": "branched:block/cottonwood_trunk_left_right_down"
+	}
+}

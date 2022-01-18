@@ -1,0 +1,13 @@
+{
+  "type": "crafting_shapeless",
+  "group": "planks",
+  "ingredients": [
+    {
+      "item": "branched:stripped_larch_branch"
+    }
+  ],
+  "result": {
+    "item": "branched:larch_planks",
+    "count": 1
+  }
+}

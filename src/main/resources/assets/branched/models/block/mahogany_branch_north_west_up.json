@@ -1,0 +1,10 @@
+{
+	"parent": "branched:block/template_branch_north_west_up",
+	"textures": {
+		"end": "branched:block/mahogany_branch_end",
+		"particle": "branched:block/mahogany_trunk",
+		"sideLU": "branched:block/mahogany_branch_left_up",
+		"sideRD": "branched:block/mahogany_branch_right_down",
+		"sideRU": "branched:block/mahogany_branch_right_up"
+	}
+}

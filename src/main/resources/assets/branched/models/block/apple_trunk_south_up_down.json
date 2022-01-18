@@ -1,0 +1,10 @@
+{
+	"parent": "branched:block/template_trunk_south_up_down",
+	"textures": {
+		"end": "branched:block/apple_trunk_end",
+		"particle": "branched:block/apple_trunk",
+		"side": "branched:block/apple_trunk",
+		"sideLDU": "branched:block/apple_trunk_left_down_up",
+		"sideLRD": "branched:block/apple_trunk_left_right_down"
+	}
+}

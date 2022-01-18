@@ -1,0 +1,8 @@
+{
+	"parent": "branched:block/template_trunk_east",
+	"textures": {
+		"end": "branched:block/stripped_maple_trunk_end",
+		"particle": "branched:block/stripped_maple_trunk",
+		"side": "branched:block/stripped_maple_trunk"
+	}
+}

@@ -1,0 +1,8 @@
+{
+	"parent": "branched:block/template_trunk_up",
+	"textures": {
+		"end": "branched:block/cedar_trunk_end",
+		"particle": "branched:block/cedar_trunk",
+		"side": "branched:block/cedar_trunk"
+	}
+}

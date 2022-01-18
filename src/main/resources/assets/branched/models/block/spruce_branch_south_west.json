@@ -1,0 +1,9 @@
+{
+	"parent": "branched:block/template_branch_south_west",
+	"textures": {
+		"end": "branched:block/spruce_branch_end",
+		"particle": "branched:block/spruce_trunk",
+		"side": "branched:block/spruce_branch",
+		"sideLD": "branched:block/spruce_branch_left_down"
+	}
+}

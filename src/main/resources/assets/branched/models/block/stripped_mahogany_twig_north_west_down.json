@@ -1,0 +1,10 @@
+{
+	"parent": "branched:block/template_twig_north_west_down",
+	"textures": {
+		"end": "branched:block/stripped_mahogany_twig_end",
+		"particle": "branched:block/stripped_mahogany_trunk",
+		"sideRD": "branched:block/stripped_mahogany_twig_right_down",
+		"sideLD": "branched:block/stripped_mahogany_twig_left_down",
+		"sideLU": "branched:block/stripped_mahogany_twig_left_up"
+	}
+}

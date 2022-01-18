@@ -1,0 +1,13 @@
+{
+  "type": "crafting_shapeless",
+  "group": "planks",
+  "ingredients": [
+    {
+      "item": "branched:redwood_branch"
+    }
+  ],
+  "result": {
+    "item": "branched:redwood_planks",
+    "count": 1
+  }
+}

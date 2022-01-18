@@ -1,0 +1,9 @@
+{
+	"parent": "branched:block/template_twig_north_up",
+	"textures": {
+		"end": "branched:block/acacia_twig_end",
+		"particle": "branched:block/acacia_trunk",
+		"side": "branched:block/acacia_twig",
+		"sideRU": "branched:block/acacia_twig_right_up"
+	}
+}

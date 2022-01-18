@@ -1,0 +1,7 @@
+{
+  "replace": false,
+  "values": [
+    "branched:ash_trunk",
+    "branched:stripped_ash_trunk"
+  ]
+}

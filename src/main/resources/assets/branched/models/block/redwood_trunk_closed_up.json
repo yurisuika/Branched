@@ -1,0 +1,9 @@
+{
+	"parent": "branched:block/template_trunk_closed_up",
+	"textures": {
+		"end": "branched:block/redwood_trunk_end",
+		"particle": "branched:block/redwood_trunk",
+		"side": "branched:block/redwood_trunk",
+		"wood": "branched:block/redwood_trunk_left_right_down_up"
+	}
+}

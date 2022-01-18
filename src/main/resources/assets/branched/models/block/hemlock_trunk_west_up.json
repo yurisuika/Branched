@@ -1,0 +1,10 @@
+{
+	"parent": "branched:block/template_trunk_west_up",
+	"textures": {
+		"end": "branched:block/hemlock_trunk_end",
+		"particle": "branched:block/hemlock_trunk",
+		"side": "branched:block/hemlock_trunk",
+		"sideLU": "branched:block/hemlock_trunk_left_up",
+		"sideRD": "branched:block/hemlock_trunk_right_down"
+	}
+}

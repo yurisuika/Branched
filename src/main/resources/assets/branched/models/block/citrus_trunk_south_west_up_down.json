@@ -1,0 +1,9 @@
+{
+	"parent": "branched:block/template_trunk_south_west_up_down",
+	"textures": {
+		"end": "branched:block/citrus_trunk_end",
+		"particle": "branched:block/citrus_trunk",
+		"sideLDU": "branched:block/citrus_trunk_left_down_up",
+		"sideLRD": "branched:block/citrus_trunk_left_right_down"
+	}
+}

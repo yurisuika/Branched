@@ -1,0 +1,8 @@
+{
+	"parent": "branched:block/template_twig_east",
+	"textures": {
+		"end": "branched:block/alder_twig_end",
+		"particle": "branched:block/alder_trunk",
+		"side": "branched:block/alder_twig"
+	}
+}

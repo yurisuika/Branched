@@ -1,0 +1,9 @@
+{
+	"parent": "branched:block/template_branch_north_east_up_down",
+	"textures": {
+		"end": "branched:block/stripped_rosewood_branch_end",
+		"particle": "branched:block/stripped_rosewood_trunk",
+		"sideLRU": "branched:block/stripped_rosewood_branch_left_right_up",
+		"sideRDU": "branched:block/stripped_rosewood_branch_right_down_up"
+	}
+}

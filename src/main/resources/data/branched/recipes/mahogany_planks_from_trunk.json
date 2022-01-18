@@ -1,0 +1,13 @@
+{
+  "type": "crafting_shapeless",
+  "group": "planks",
+  "ingredients": [
+    {
+      "item": "branched:mahogany_trunk"
+    }
+  ],
+  "result": {
+    "item": "branched:mahogany_planks",
+    "count": 4
+  }
+}

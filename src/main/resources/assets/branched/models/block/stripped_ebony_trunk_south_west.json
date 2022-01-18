@@ -1,0 +1,9 @@
+{
+	"parent": "branched:block/template_trunk_south_west",
+	"textures": {
+		"end": "branched:block/stripped_ebony_trunk_end",
+		"particle": "branched:block/stripped_ebony_trunk",
+		"side": "branched:block/stripped_ebony_trunk",
+		"sideLD": "branched:block/stripped_ebony_trunk_left_down"
+	}
+}

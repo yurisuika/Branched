@@ -1,0 +1,9 @@
+{
+	"parent": "branched:block/template_twig_south_east_west_down",
+	"textures": {
+		"end": "branched:block/peach_twig_end",
+		"particle": "branched:block/peach_trunk",
+		"sideLDU": "branched:block/peach_twig_left_down_up",
+		"sideLRD": "branched:block/peach_twig_left_right_down"
+	}
+}

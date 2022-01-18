@@ -1,0 +1,13 @@
+{
+  "type": "crafting_shapeless",
+  "group": "planks",
+  "ingredients": [
+    {
+      "item": "branched:cedar_trunk"
+    }
+  ],
+  "result": {
+    "item": "branched:cedar_planks",
+    "count": 4
+  }
+}

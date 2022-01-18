@@ -1,0 +1,10 @@
+{
+	"parent": "branched:block/template_twig_east_west_up",
+	"textures": {
+		"end": "branched:block/gum_twig_end",
+		"particle": "branched:block/gum_trunk",
+		"side": "branched:block/gum_twig",
+		"sideLRU": "branched:block/gum_twig_left_right_up",
+		"sideRDU": "branched:block/gum_twig_right_down_up"
+	}
+}

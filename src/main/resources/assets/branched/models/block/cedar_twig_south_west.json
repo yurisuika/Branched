@@ -1,0 +1,9 @@
+{
+	"parent": "branched:block/template_twig_south_west",
+	"textures": {
+		"end": "branched:block/cedar_twig_end",
+		"particle": "branched:block/cedar_trunk",
+		"side": "branched:block/cedar_twig",
+		"sideLD": "branched:block/cedar_twig_left_down"
+	}
+}

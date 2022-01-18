@@ -1,0 +1,8 @@
+{
+	"parent": "branched:block/template_branch_east",
+	"textures": {
+		"end": "branched:block/teak_branch_end",
+		"particle": "branched:block/teak_trunk",
+		"side": "branched:block/teak_branch"
+	}
+}

@@ -1,0 +1,13 @@
+{
+  "type": "crafting_shapeless",
+  "group": "planks",
+  "ingredients": [
+    {
+      "item": "branched:stripped_mesquite_trunk"
+    }
+  ],
+  "result": {
+    "item": "branched:mesquite_planks",
+    "count": 4
+  }
+}

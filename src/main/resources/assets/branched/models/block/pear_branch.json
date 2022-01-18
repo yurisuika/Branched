@@ -1,0 +1,7 @@
+{
+	"parent": "branched:block/template_branch",
+	"textures": {
+		"particle": "branched:block/pear_trunk",
+		"wood": "branched:block/pear_branch_left_right_down_up"
+	}
+}

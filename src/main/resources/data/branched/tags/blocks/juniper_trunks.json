@@ -1,0 +1,7 @@
+{
+  "replace": false,
+  "values": [
+    "branched:juniper_trunk",
+    "branched:stripped_juniper_trunk"
+  ]
+}

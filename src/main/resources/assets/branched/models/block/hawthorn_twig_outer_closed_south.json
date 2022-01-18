@@ -1,0 +1,8 @@
+{
+	"parent": "branched:block/template_twig_outer_closed_south",
+	"textures": {
+		"wood": "branched:block/hawthorn_twig_left_right_down_up",
+		"particle": "branched:block/hawthorn_trunk",
+		"side": "branched:block/hawthorn_twig"
+	}
+}

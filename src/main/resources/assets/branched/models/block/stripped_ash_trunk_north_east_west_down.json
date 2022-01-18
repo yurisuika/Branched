@@ -1,0 +1,9 @@
+{
+	"parent": "branched:block/template_trunk_north_east_west_down",
+	"textures": {
+		"end": "branched:block/stripped_ash_trunk_end",
+		"particle": "branched:block/stripped_ash_trunk",
+		"sideLRD": "branched:block/stripped_ash_trunk_left_right_down",
+		"sideLRU": "branched:block/stripped_ash_trunk_left_right_up"
+	}
+}

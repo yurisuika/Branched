@@ -1,0 +1,8 @@
+{
+	"parent": "branched:block/template_twig_north",
+	"textures": {
+		"end": "branched:block/teak_twig_end",
+		"particle": "branched:block/teak_trunk",
+		"side": "branched:block/teak_twig"
+	}
+}

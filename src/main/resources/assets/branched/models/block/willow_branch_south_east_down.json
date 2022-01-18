@@ -1,0 +1,10 @@
+{
+	"parent": "branched:block/template_branch_south_east_down",
+	"textures": {
+		"end": "branched:block/willow_branch_end",
+		"particle": "branched:block/willow_trunk",
+		"sideLD": "branched:block/willow_branch_left_down",
+		"sideLU": "branched:block/willow_branch_left_up",
+		"sideRD": "branched:block/willow_branch_right_down"
+	}
+}

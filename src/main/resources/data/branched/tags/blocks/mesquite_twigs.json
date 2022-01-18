@@ -1,0 +1,7 @@
+{
+  "replace": false,
+  "values": [
+    "branched:mesquite_twig",
+    "branched:stripped_mesquite_twig"
+  ]
+}

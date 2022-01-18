@@ -1,0 +1,7 @@
+{
+  "replace": false,
+  "values": [
+    "branched:larch_trunk",
+    "branched:stripped_larch_trunk"
+  ]
+}

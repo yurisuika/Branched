@@ -1,0 +1,9 @@
+{
+	"parent": "branched:block/template_branch_north_south_east_down",
+	"textures": {
+		"end": "branched:block/larch_branch_end",
+		"particle": "branched:block/larch_trunk",
+		"sideLDU": "branched:block/larch_branch_left_down_up",
+		"sideRDU": "branched:block/larch_branch_right_down_up"
+	}
+}

@@ -1,0 +1,9 @@
+{
+	"parent": "branched:block/template_trunk_north_south_west_down",
+	"textures": {
+		"end": "branched:block/stripped_walnut_trunk_end",
+		"particle": "branched:block/stripped_walnut_trunk",
+		"sideLDU": "branched:block/stripped_walnut_trunk_left_down_up",
+		"sideLRD": "branched:block/stripped_walnut_trunk_left_right_down"
+	}
+}

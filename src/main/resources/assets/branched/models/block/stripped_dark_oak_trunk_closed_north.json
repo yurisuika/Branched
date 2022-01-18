@@ -1,0 +1,9 @@
+{
+	"parent": "branched:block/template_trunk_closed_north",
+	"textures": {
+		"end": "branched:block/stripped_dark_oak_trunk_end",
+		"particle": "branched:block/stripped_dark_oak_trunk",
+		"side": "branched:block/stripped_dark_oak_trunk",
+		"wood": "branched:block/stripped_dark_oak_trunk_left_right_down_up"
+	}
+}

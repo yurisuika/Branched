@@ -1,0 +1,13 @@
+{
+  "type": "crafting_shapeless",
+  "group": "planks",
+  "ingredients": [
+    {
+      "item": "branched:maple_trunk"
+    }
+  ],
+  "result": {
+    "item": "branched:maple_planks",
+    "count": 4
+  }
+}

@@ -1,0 +1,8 @@
+{
+	"parent": "branched:block/template_twig_south",
+	"textures": {
+		"end": "branched:block/stripped_birch_twig_end",
+		"particle": "branched:block/stripped_birch_trunk",
+		"side": "branched:block/stripped_birch_twig"
+	}
+}

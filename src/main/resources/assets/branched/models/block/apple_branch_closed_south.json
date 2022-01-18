@@ -1,0 +1,8 @@
+{
+	"parent": "branched:block/template_branch_closed_south",
+	"textures": {
+		"particle": "branched:block/apple_trunk",
+		"side": "branched:block/apple_branch",
+		"wood": "branched:block/apple_branch_left_right_down_up"
+	}
+}

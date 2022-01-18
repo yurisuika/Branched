@@ -1,0 +1,7 @@
+{
+  "replace": false,
+  "values": [
+    "branched:citrus_twig",
+    "branched:stripped_citrus_twig"
+  ]
+}

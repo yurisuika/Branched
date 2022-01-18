@@ -1,0 +1,10 @@
+{
+	"parent": "branched:block/template_trunk_south_east_west",
+	"textures": {
+		"end": "branched:block/birch_trunk_end",
+		"particle": "branched:block/birch_trunk",
+		"side": "branched:block/birch_trunk",
+		"sideLDU": "branched:block/birch_trunk_left_down_up",
+		"sideLRD": "branched:block/birch_trunk_left_right_down"
+	}
+}

@@ -1,0 +1,8 @@
+{
+	"parent": "branched:block/template_branch_closed_down",
+	"textures": {
+		"particle": "branched:block/aspen_trunk",
+		"side": "branched:block/aspen_branch",
+		"wood": "branched:block/aspen_branch_left_right_down_up"
+	}
+}

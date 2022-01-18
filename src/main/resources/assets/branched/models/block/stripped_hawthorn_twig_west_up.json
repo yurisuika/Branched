@@ -1,0 +1,10 @@
+{
+	"parent": "branched:block/template_twig_west_up",
+	"textures": {
+		"end": "branched:block/stripped_hawthorn_twig_end",
+		"particle": "branched:block/stripped_hawthorn_trunk",
+		"side": "branched:block/stripped_hawthorn_twig",
+		"sideLU": "branched:block/stripped_hawthorn_twig_left_up",
+		"sideRD": "branched:block/stripped_hawthorn_twig_right_down"
+	}
+}

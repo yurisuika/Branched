@@ -1,0 +1,9 @@
+{
+	"parent": "branched:block/template_twig_south_west",
+	"textures": {
+		"end": "branched:block/juniper_twig_end",
+		"particle": "branched:block/juniper_trunk",
+		"side": "branched:block/juniper_twig",
+		"sideLD": "branched:block/juniper_twig_left_down"
+	}
+}

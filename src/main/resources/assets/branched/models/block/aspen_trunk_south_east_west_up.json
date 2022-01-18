@@ -1,0 +1,9 @@
+{
+	"parent": "branched:block/template_trunk_south_east_west_up",
+	"textures": {
+		"end": "branched:block/aspen_trunk_end",
+		"particle": "branched:block/aspen_trunk",
+		"sideLDU": "branched:block/aspen_trunk_left_down_up",
+		"sideRDU": "branched:block/aspen_trunk_right_down_up"
+	}
+}

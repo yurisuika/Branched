@@ -1,0 +1,9 @@
+{
+	"parent": "branched:block/template_twig_south_down",
+	"textures": {
+		"end": "branched:block/spruce_twig_end",
+		"particle": "branched:block/spruce_trunk",
+		"side": "branched:block/spruce_twig",
+		"sideLD": "branched:block/spruce_twig_left_down"
+	}
+}

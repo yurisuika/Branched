@@ -1,0 +1,13 @@
+{
+  "type": "crafting_shapeless",
+  "group": "planks",
+  "ingredients": [
+    {
+      "item": "branched:juniper_trunk"
+    }
+  ],
+  "result": {
+    "item": "branched:juniper_planks",
+    "count": 4
+  }
+}

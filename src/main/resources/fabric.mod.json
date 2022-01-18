@@ -1,0 +1,40 @@
+{
+  "schemaVersion": 1,
+  "id": "branched",
+  "version": "${version}",
+
+  "name": "Branched",
+  "description": "From root to bud, the life of a tree.",
+  "authors": [
+    "yurisuika"
+  ],
+  "contact": {
+    "homepage": "https://suikacraft.com",
+    "sources": "https://github.com/yurisuika/Branched"
+  },
+
+  "license": "MIT",
+  "icon": "assets/branched/icon.png",
+
+  "environment": "*",
+  "entrypoints": {
+    "main": [
+      "com.yurisuika.branched.Branched"
+    ]
+  },
+  "mixins": [
+    "branched.mixins.json"
+  ],
+
+  "accessWidener" : "branched.accesswidener",
+
+  "depends": {
+    "fabricloader": ">=0.11.6",
+    "fabric": "*",
+    "minecraft": "1.18.x",
+    "java": ">=17"
+  },
+  "suggests": {
+    "another-mod": "*"
+  }
+}

@@ -1,0 +1,8 @@
+{
+	"parent": "branched:block/template_twig_outer_south",
+	"textures": {
+		"end": "branched:block/larch_twig_end",
+		"particle": "branched:block/larch_trunk",
+		"side": "branched:block/larch_twig"
+	}
+}

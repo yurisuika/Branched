@@ -1,0 +1,9 @@
+{
+	"parent": "branched:block/template_branch_north_south_west_down",
+	"textures": {
+		"end": "branched:block/juniper_branch_end",
+		"particle": "branched:block/juniper_trunk",
+		"sideLDU": "branched:block/juniper_branch_left_down_up",
+		"sideLRD": "branched:block/juniper_branch_left_right_down"
+	}
+}

@@ -1,0 +1,10 @@
+{
+	"parent": "branched:block/template_branch_south_west_up",
+	"textures": {
+		"end": "branched:block/hickory_branch_end",
+		"particle": "branched:block/hickory_trunk",
+		"sideLD": "branched:block/hickory_branch_left_down",
+		"sideLU": "branched:block/hickory_branch_left_up",
+		"sideRD": "branched:block/hickory_branch_right_down"
+	}
+}

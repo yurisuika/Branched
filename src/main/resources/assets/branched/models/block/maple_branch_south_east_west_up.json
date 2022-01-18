@@ -1,0 +1,9 @@
+{
+	"parent": "branched:block/template_branch_south_east_west_up",
+	"textures": {
+		"end": "branched:block/maple_branch_end",
+		"particle": "branched:block/maple_trunk",
+		"sideLDU": "branched:block/maple_branch_left_down_up",
+		"sideRDU": "branched:block/maple_branch_right_down_up"
+	}
+}

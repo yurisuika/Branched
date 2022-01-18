@@ -1,0 +1,10 @@
+{
+	"parent": "branched:block/template_branch_north_south_up",
+	"textures": {
+		"end": "branched:block/walnut_branch_end",
+		"particle": "branched:block/walnut_trunk",
+		"side": "branched:block/walnut_branch",
+		"sideLRU": "branched:block/walnut_branch_left_right_up",
+		"sideRDU": "branched:block/walnut_branch_right_down_up"
+	}
+}

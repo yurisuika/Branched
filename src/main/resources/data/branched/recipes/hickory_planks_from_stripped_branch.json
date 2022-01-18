@@ -1,0 +1,13 @@
+{
+  "type": "crafting_shapeless",
+  "group": "planks",
+  "ingredients": [
+    {
+      "item": "branched:stripped_hickory_branch"
+    }
+  ],
+  "result": {
+    "item": "branched:hickory_planks",
+    "count": 1
+  }
+}

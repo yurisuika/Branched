@@ -1,0 +1,13 @@
+{
+  "type": "crafting_shapeless",
+  "group": "planks",
+  "ingredients": [
+    {
+      "item": "branched:rosewood_trunk"
+    }
+  ],
+  "result": {
+    "item": "branched:rosewood_planks",
+    "count": 4
+  }
+}
