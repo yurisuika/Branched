@@ -1,4 +1,4 @@
-<p align="center"><img src="https://github.com/yurisuika/Branched/blob/Fabric-1.18/src/main/resources/assets/branched/icon.png?raw=true" width="256" height="256"></p>
+<p align="center"><img src="https://github.com/yurisuika/Branched/blob/Fabric-1.18.2/src/main/resources/assets/branched/icon.png?raw=true" width="256" height="256"></p>
 
 **Branched** is a Fabric mod for Minecraft that works as an add-on for *[Lush](https://github.com/yurisuika/Lush)*, adding trunk, branch, and twig blocks (and their stripped versions) for every species to give you more realistic trees. No longer does every tree just have a boring thick trunk!
 
